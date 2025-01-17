@@ -20,8 +20,7 @@ const TranslationApp = () => {
     'de-DE': 'German',
     'it-IT': 'Italian',
     'ja-JP': 'Japanese',
-    'hi-IN': 'Hindi',
-    'mr-IN': 'Marathi'
+    'hi-IN': 'Hindi'
   };
 
   const languages = Object.entries(languageMapping).map(([code, name]) => ({
