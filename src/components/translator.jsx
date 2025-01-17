@@ -271,12 +271,3 @@ const TranslationApp = () => {
 };
 
 export default TranslationApp;
-
-
-
-
-
-
-
-
-
